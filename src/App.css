@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #222;
+
+  box-sizing: border-box;
+
+  background-color: rgba(248, 248, 248, 0.351);
+}
+
+form.card {
+  border: 2px solid black;
+  background: linear-gradient(rgba(255, 255, 255, 0.137), rgba(0, 0, 0, 0.636));
+  /* text-align: center; */
+  padding: 30px;
+  padding: 30px;
+  margin-top: 175px;
+  margin-bottom: 325px;
+  margin-left: 500px;
+  max-width: 500px;
+
+}
+
+h2.heading {
+  text-align: center;
+}
